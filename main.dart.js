@@ -64109,7 +64109,7 @@ if(s.Lr()<1/q)return p}},
 cq(){var s=0,r=A.G(t.z),q=this,p,o,n,m
 var $async$cq=A.H(function(a,b){if(a===1)return A.D(b,r)
 for(;;)switch(s){case 0:s=2
-return A.C(A.ay1(A.eQ("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/vocabulary.json",0,null)),$async$cq)
+return A.C(A.ay1(A.eQ("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/assets/vocabulary.json",0,null)),$async$cq)
 case 2:n=b
 m=n.b
 if(m===200)for(m=J.bj(B.bi.Jv(A.axP(A.avL(n.e)).du(n.w),null)),p=q.b;m.n();){o=m.gI()
@@ -64145,7 +64145,7 @@ p=t.f3
 o=r.c?B.kl:B.hk
 s=A.jv(new A.rH(new A.Cb(r,i.ga6G(),new A.h2(q,p)),new A.a6D(j),o,new A.h2(q,p)),n,new A.ar(0,1/0,0,500),n,s.a.b*0.6,n,n,n)
 l=A.bK(a,n,l).w
-return new A.mk(new A.Cw(m,n),new A.Ak("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/background.png",A.Pk(A.B6(A.d([new A.dg(3,n),k,new A.dg(1,n),s,new A.dg(2,n),new A.CW(j.e,!0,new A.a6E(j),A.jv(A.adc(i.f.c?A.d([new A.dg(1,n),A.h1(A.dB("[arrow left]",n),B.h7,24,!0),new A.dg(1,n),A.h1(A.dB("[arrow right]",n),B.e8,24,!0),new A.dg(1,n)],h):A.d([new A.dg(1,n),A.h1(A.dB("[arrow up]",n),B.bl,24,!0),new A.dg(1,n)],h),B.aS,B.bP),n,new A.ar(0,1/0,0,125),n,l.a.b*0.15,n,new A.aV(10,10,10,10),n),n),new A.dg(6,n)],h),B.aS,B.aK,B.bP),n,n),n),new A.Dm(m,n),!1,n)},
+return new A.mk(new A.Cw(m,n),new A.Ak("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/assets/background.png",A.Pk(A.B6(A.d([new A.dg(3,n),k,new A.dg(1,n),s,new A.dg(2,n),new A.CW(j.e,!0,new A.a6E(j),A.jv(A.adc(i.f.c?A.d([new A.dg(1,n),A.h1(A.dB("[arrow left]",n),B.h7,24,!0),new A.dg(1,n),A.h1(A.dB("[arrow right]",n),B.e8,24,!0),new A.dg(1,n)],h):A.d([new A.dg(1,n),A.h1(A.dB("[arrow up]",n),B.bl,24,!0),new A.dg(1,n)],h),B.aS,B.bP),n,new A.ar(0,1/0,0,125),n,l.a.b*0.15,n,new A.aV(10,10,10,10),n),n),new A.dg(6,n)],h),B.aS,B.aK,B.bP),n,n),n),new A.Dm(m,n),!1,n)},
 $S:424}
 A.a6D.prototype={
 $1(a){this.a.d.Aw(a===B.ei)},
@@ -64163,7 +64163,7 @@ $S:426}
 A.Cw.prototype={
 L(a){var s,r,q,p,o=null
 A.au1(a).toString
-s=A.asD(o,o,new A.lX("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/logotype.png",1,o,B.w4))
+s=A.asD(o,o,new A.lX("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/assets/logotype.png",1,o,B.w4))
 r=this.c
 q=r.e
 r=r.d
