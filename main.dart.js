@@ -65541,7 +65541,7 @@ L(a){return new A.j8(new A.a91(this),null,this.d,null)},
 l(){this.e.l()
 this.aN()}}
 A.a91.prototype={
-$2(a,b){var s=null,r=$.Ar(),q=window.navigator.userAgent.toLowerCase(),p=!(B.c.t(q,"iphone")||B.c.t(q,"ipad")||B.c.t(q,"android"))?new A.Hg(r,s):new A.DY(r,this.a.e,s),o=A.bW(a,s,t.w).w,n=this.a,m=n.d,l=m.r,k=l.a.a,j=t.f3,i=l.c?B.km:B.hk
+$2(a,b){var s=null,r=$.Ar(),q=window.navigator.userAgent.toLowerCase(),p=B.c.t(q,"iphone")||B.c.t(q,"ipad")||B.c.t(q,"android")?new A.Hg(r,s):new A.DY(r,this.a.e,s),o=A.bW(a,s,t.w).w,n=this.a,m=n.d,l=m.r,k=l.a.a,j=t.f3,i=l.c?B.km:B.hk
 return new A.mS(new A.Dz(r,s),new A.Ba("https://raw.githubusercontent.com/niqqudmaster/test/refs/heads/master/assets/background.png",A.Ry(A.BY(A.d([new A.dL(3,s),p,new A.dL(1,s),A.h0(new A.tl(new A.Dc(l,m.ga6M(),new A.hx(k,j)),new A.a90(n),i,new A.hx(k,j)),s,new A.ax(0,1/0,0,500),s,o.a.b*0.6,s,s,s),new A.dL(9,s)],t.E),B.aS,B.aJ,B.bR),s,s),s),new A.Er(r,s),!1,s)},
 $S:424}
 A.a90.prototype={
